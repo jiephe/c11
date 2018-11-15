@@ -146,6 +146,7 @@
     <ClCompile Include="test_thread.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BlockingQueue.h" />
     <ClInclude Include="test_thread.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
